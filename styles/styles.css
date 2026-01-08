@@ -315,3 +315,42 @@
 }
 
 
+/* <!-- early access section --> */
+
+.early-access-section {
+  padding: 80px 20px;
+  background: rgba(255, 255, 255, 1);
+}
+
+.early-access-box {
+  max-width: 900px;
+  margin: 0 auto;
+  background: rgba(247, 246, 242, 1);
+  padding: 50px 20px;
+  text-align: center;
+  border-radius: 12px;
+}
+
+.ea-title {
+  font-size: 28px;
+  font-weight: 700;
+  color: rgba(0, 25, 49, 1);
+  margin-bottom: 12px;
+}
+
+.ea-subtitle {
+  font-size: 14px;
+  color: #627382;
+  max-width: 520px;
+  margin: 0 auto 24px;
+  line-height: 1.6;
+}
+
+.ea-note {
+  margin-top: 14px;
+  font-size: 12px;
+  color: #627382;
+}
+
+
+
